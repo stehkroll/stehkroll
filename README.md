@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @stehkroll
-- 👀 I’m interested in games and travels
-- 🌱 I’m currently learning phyton anbd panda
-- 💞️ I’m looking to collaborate on health projects
-- 📫 How to reach me stekakr@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I´m a pharmacist, but I love tech, trying to mix this two worlds together
+Health meets code. Pharmacist | Data & Public Health Explorer | Gamer who treats bugs like mini-bosses ⚔️
 
 <!---
 stehkroll/stehkroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
